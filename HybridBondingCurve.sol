@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: UNLICENCED
 // Copyright: Bonding Labs - Begic Nedim
 
+pragma solidity ^0.8.0;
+
 import "./MathLib.sol";
 
 /**
